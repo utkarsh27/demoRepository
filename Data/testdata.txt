@@ -1,2 +1,7 @@
 This is sample test data
+<<<<<<< HEAD
 new line 
+=======
+This is sample test 2
+
+
